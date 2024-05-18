@@ -1,0 +1,19 @@
+1.	Onboarding and orientation - in this module after the successful hiring and selection, 
+	once the admin give the employee account, the employee will be directed in this section where in all the guidelines, 
+	rules and regulation, company policies, safety precaution, and all sorts of information about of the job, 
+	and even the equipment that will be provided are shown in this module.
+
+2.	Career � after the onboarding and orientation in this module the admin will give a monthly or every 3 month 
+	evaluation in order to monitor the performance of the employee, and to give them some suggestion of they are 
+	lacking or what are needed to improve.
+
+3.	Selection � in this module the admin will rank the employee base of their performance and knowledge
+ 	about the work, it is needed when there are some superior are going to resign and if there are new employee.
+
+4.	Performance management � in this module the admin will manage their skills and performance using a 
+	chart that will show the employee strength and weakness. This is where the admin will base in order to 
+	identify which employee are worth in the vacant position, this process is under the selection/ranking process.
+
+5.	Retention � in this module, the admin will notify the employee through this system where 
+	in the employee will receive the notification of the reward of the employee achievement, 
+	for example: the employee will receiving the �employee of the month�.
