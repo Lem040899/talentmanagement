@@ -3,7 +3,7 @@
 $host="localhost";
 $username="root";
 $password="";
-$database="epes_db";
+$database="talenmdb";
 
 $con=mysqli_connect("$host","$username","$password","$database");
 

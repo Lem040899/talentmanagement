@@ -33,7 +33,7 @@ include('includes/header.php');
                         <tbody>
                         <?php                   
                         $i=1;
-                            $task_list="SELECT * FROM task_list";
+                            $task_list="SELECT * FROM tmstb";
                             $task_list_run=mysqli_query($con,$task_list);
 
                             if(mysqli_num_rows($task_list_run) > 0)

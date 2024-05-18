@@ -23,7 +23,7 @@
                                 <div class="sb-nav-link-icon"><i ></i></div>
                                 Employees
                             </a>
-                            <a class="nav-link" href="#">
+                            <a class="nav-link" href="performancemanagement.php">
                                 <div class="sb-nav-link-icon"><i ></i></div>
                                 Performance
                             </a>
